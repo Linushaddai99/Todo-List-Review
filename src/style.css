@@ -106,17 +106,9 @@ button {
 
 .checkbox {
   display: inline;
-
-  /* border: 1px solid red; */
   width: 5%;
 }
 
 .todo-p {
-  /* border: 1px solid red; */
   width: 100%;
 }
-
-/*
-.li {
-  border: 1px solid red;
-} */
